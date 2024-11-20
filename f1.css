@@ -4,6 +4,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
+    
 }
 header{
     position: relative;
@@ -22,8 +23,16 @@ table {
 }     
 th, td{
     padding: 8px 10px;
+    
 }
 td:last-of-type{
     text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: rgb(54,58,87);
 }
 
