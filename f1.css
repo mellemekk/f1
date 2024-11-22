@@ -1,26 +1,33 @@
 body{
     background-color:  rgb(5,4,10);
-    background-image: linear-gradient(to bottom,rgba(5, 4, 10,0.9),rgba(54,58,87,0.5)), url(pexels-jonathanborba-29252114.jpg);
+    background-image: linear-gradient(to bottom,rgba(126,51,2,0.6),rgba(0,0,0,0.5)), url(pexels-abed-ismail-6697875.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    max-width:100vw;
     min-height: 100vh;
     
 }
 header{
-    position: relative;
-    left: 50vw;
-    color: antiquewhite;
+    text-align: center;
+    max-width: 100vw;
+    justify-content: center;
+    color: rgb(255, 187, 0);
+    font:italic;
+    font-size: x-large;
+    font-weight:1000;
+    letter-spacing: 7px;
 }
 table {
-    position: relative;
-    left: 39vw;
-    top: 60vh;
+   
     border-collapse: collapse;
-    border: 4px solid rgb(54,58,87);
+    border-radius: 10px;
     font-family: sans-serif;
     font-size: 2rem;
     letter-spacing: 1px;    
 }     
+tbody{
+   
+}
 th, td{
     padding: 8px 10px;
     
@@ -30,9 +37,19 @@ td:last-of-type{
 }
 a{
     text-decoration: none;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 a:hover{
-    color: rgb(54,58,87);
+    color: rgba(100,175,183,255);
 }
-
+#litenbrumbrum{
+    z-index: -1;
+}
+.tabölbårder{
+    position: relative;
+    left: 39vw;
+    top: 60vh;
+    border: 8px solid rgb(240, 94, 35);
+    display: inline-block;
+    border-radius: 20px;
+}
