@@ -46,10 +46,20 @@ a:hover{
     z-index: -1;
 }
 .tabölbårder{
-    position: relative;
+    position:relative;
     left: 39vw;
     top: 60vh;
     border: 8px solid rgb(240, 94, 35);
     display: inline-block;
     border-radius: 20px;
+}
+.textruta{
+    border: 8px solid rgb(240, 94, 35);
+    border-radius: 20px;
+    font-family: sans-serif;
+    color: rgba(100,175,1833,255);
+    position: relative;
+    text-align: left;
+    width: 30vw;
+    top: 60vh;
 }
