@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(87,7,7);
+}
+p{
+    position:relative;
+    left: 20vw;
+    top: 400px;
+    color: white;
+    width: 50vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+    margin: 20px;
+    padding: 20px;
+    border: 7px solid white;
+    border-radius: 20px;    
+}
+a{
+    z-index: 2;
+    position:sticky;
+    left: 48vw;
+    color: white;
+    width: 30vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

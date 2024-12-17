@@ -1,29 +1,36 @@
 body{
-    margin:0;
-    padding:0;
-}
-
-.sasongbild{
-    background-image:linear-gradient(to bottom,rgba(0, 0, 0, 0.5),rgba(0,0,0,0.5)), url(bilder/wp9450781.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    max-width:100vw;
+width: 100%;
     min-height: 100vh;
-    
+    background-size:cover;
     background-repeat: no-repeat;
+    background-image: linear-gradient(to bottom,rgba(126,51,2,0.9),rgba(0,0,0,1)), url(bilder/black-perforated-metal-background-metal-texture-steel-carbon-fiber-background-perforated-sheet-metal-vector.jpg);
 }
-.alpharomeo{
-    position: absolute;
-    top: 148px;
-    left: 76px;
-    width: 220px;
-    height: 220px;
-    border-radius: 100%;
-    background: none;
+p{
+    position:sticky;
+    left: 60vw;
+    color: white;
+    width: 30vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.alpharomeo:hover{
-    background-color: rgba(75, 75, 75, 0.24);
+.sasongtext{
+    margin: 20px;
+    padding: 20px;
+    border: 7px solid white;
+    border-radius: 20px;
 }
-.alpharomeo:active{
-    background-color: rgba(0, 0, 0, 0.4);
+.sasongchart{
+    letter-spacing: 5px;
+    position:sticky;
+    top: 5%;
+    color: white;
+    width: 50vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+}
+a{
+    position:sticky;
+    left: 48vw;
+    color: white;
+    width: 30vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }

@@ -45,22 +45,9 @@ a:hover{
 }
 .tabölbårder{
     position:sticky;
-    left: 69vw;
-    top: 20vh;
+    left: 40vw;
+    top: 65vh;
     border: 8px solid rgb(240, 94, 35);
     display: inline-block;
     border-radius: 20px;
-}
-.textruta{
-    background-color: rgba(1,1,1,0.4);
-    border: 8px solid rgb(240, 94, 35);
-    border-radius: 20px;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight:bolder;
-    font-size:larger;
-    color: rgba(100,175,183,255);
-    position: relative;
-    text-align: left;
-    width: 30vw;
-    top: 35vh;
 }

@@ -1,12 +1,13 @@
 body{
-    background-color: rgb(82, 7, 7);
+    background-image: url(bilder/alfa-romeo-symbol.jpg);
+    
     
 }
 p{
     position:sticky;
-    left: 44vw;
     color: white;
-    width: 50vw;
+    width: 20vw;
+
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .alphatext{
@@ -14,4 +15,19 @@ p{
     padding: 20px;
     border: 7px solid white;
     border-radius: 20px;
+}
+.start{
+    position:sticky;
+    left: 44vw;
+    color: white;
+    width: 50vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+    z-index: 2;
+    position:sticky;
+    left: 48vw;
+    color: white;
+    width: 30vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }

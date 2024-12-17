@@ -1,0 +1,192 @@
+body{
+        background-color: black;
+        margin:0;
+        padding:0;
+    }
+    
+    .sasongbild{
+        z-index: 1;
+        background-image:linear-gradient(to bottom,rgba(0, 0, 0, 0.5),rgba(0,0,0,0.5)), url(bilder/wp9450781.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        max-width:100vw;
+        min-height: 98vh;
+        
+        background-repeat: no-repeat;
+    }
+    .alpharomeo{
+        position: absolute;
+        right: 629px;
+        bottom: 86px;
+        width: 220px;
+        height: 220px;
+        border-radius: 100%;
+        border-color: rgba(0, 0, 0, 0);
+        background: none;
+    }
+    .alpharomeo:hover{
+        background-color: rgba(75, 75, 75, 0.24);
+    }
+    .alpharomeo:active{
+        background-color: rgba(0, 0, 0, 0.4);
+}
+.redbull{
+    position: absolute;
+    right: 250px;
+    bottom: 86px;
+    width: 220px;
+    height: 220px;
+    border-radius: 100%;
+    border-color: rgba(0, 0, 0, 0);
+    background: none;
+}
+.redbull:hover{
+    background-color: rgba(75, 75, 75, 0.24);
+}
+.redbull:active{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.rosa{
+    position: absolute;
+    right: -140px;
+    bottom: 86px;
+    width: 220px;
+    height: 220px;
+    border-radius: 100%;
+    border-color: rgba(0, 0, 0, 0);
+    background: none;
+}
+.rosa:hover{
+    background-color: rgba(75, 75, 75, 0.24);
+}
+.rosa:active{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.haas{
+    position: absolute;
+    right: -520px;
+    bottom: 86px;
+    width: 220px;
+    height: 220px;
+    border-radius: 100%;
+    border-color: rgba(0, 0, 0, 0);
+    background: none;
+}
+.haas:hover{
+    background-color: rgba(75, 75, 75, 0.24);
+}
+.haas:active{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.mclaren{
+    position: absolute;
+    right: -900px;
+    bottom: 86px;
+    width: 220px;
+    height: 220px;
+    border-radius: 100%;
+    border-color: rgba(0, 0, 0, 0);
+    background: none;
+}
+.mclaren:hover{
+    background-color: rgba(75, 75, 75, 0.24);
+}
+.mclaren:active{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.mercedes{
+    position: absolute;
+    right: 629px;
+    bottom: -458px;
+    width: 220px;
+    height: 220px;
+    border-radius: 100%;
+    border-color: rgba(0, 0, 0, 0);
+    background: none;
+}
+.mercedes:hover{
+    background-color: rgba(75, 75, 75, 0.24);
+}
+.mercedes:active{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.bla{
+    position: absolute;
+    right: 250px;
+    bottom: -458px;
+    width: 220px;
+    height: 220px;
+    border-radius: 100%;
+    border-color: rgba(0, 0, 0, 0);
+    background: none;
+}
+.bla:hover{
+    background-color: rgba(75, 75, 75, 0.24);
+}
+.bla:active{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.ferrari{
+    position: absolute;
+    right: -140px;
+    bottom: -458px;
+    width: 220px;
+    height: 220px;
+    border-radius: 100%;
+    border-color: rgba(0, 0, 0, 0);
+    background: none;
+}
+.ferrari:hover{
+    background-color: rgba(75, 75, 75, 0.24);
+}
+.ferrari:active{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.renault{
+    position: absolute;
+    right: -520px;
+    bottom: -458px;
+    width: 220px;
+    height: 220px;
+    border-radius: 100%;
+    border-color: rgba(0, 0, 0, 0);
+    background: none;
+}
+.renault:hover{
+    background-color: rgba(75, 75, 75, 0.24);
+}   
+.renault:active{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.W{
+    position: absolute;
+    right: -900px;
+    bottom: -458px;
+    width: 220px;
+    height: 220px;
+    border-radius: 100%;
+    border-color: rgba(0, 0, 0, 0);
+    background: none;
+}
+.W:hover{
+    background-color: rgba(75, 75, 75, 0.24);
+}
+.W:active{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+
+
+
+a{
+    top: 50%;
+    z-index: 2;
+    position:sticky;
+    left: 48vw;
+    color: white;
+    width: 30vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.startsida{
+   top: 1; 
+}

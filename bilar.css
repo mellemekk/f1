@@ -1,0 +1,97 @@
+body{
+    width: 100%;
+    height: 200vh;   
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(to bottom,rgba(126,51,2,0.5),rgba(126,51,2,0.5)), url(bilder/formula-one-cars-of-2024-v0-rzl9diqozsic1.webp    );
+}
+a{
+    position:sticky;
+    left: 48vw;
+    color: white;
+    width: 30vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.alfa{
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
+    width: 40vw;
+}
+.ferrari{
+    position: relative;
+    left: 955px;
+    top: -130px;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
+    width: 40vw;
+}
+.haas{
+    position: relative;
+    top: 100px;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
+    width: 40vw;
+}
+.mclaren{
+    position: relative;
+    top: -32px;
+    left: 955px;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
+    width: 40vw;
+}
+.mercedes{
+    position: relative;
+    top: 220px;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
+    width: 40vw;
+}
+.redbull{
+    position: relative;
+    top: 100px;
+    left: 955px;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
+    width: 40vw;
+}.renault{
+    position: relative;
+    top: 325px;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
+    width: 40vw;
+}
+.rosa{
+    position: relative;
+    top: 192px;
+    left: 955px;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
+    width: 40vw;
+}
+.w{
+    position: relative;
+    top: 420px;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
+    width: 40vw;
+}
+.bla{
+    position: relative;
+    top: 260px;
+    left: 955px;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
+    width: 40vw;
+}

@@ -1,0 +1,26 @@
+body{
+    width: 100%;
+    min-height: 100vh;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(to bottom,rgba(126,51,2,0.9),rgba(0,0,0,0.8)), url(bilder/world-map-background-0ajjq960oqy3j3e0.jpg);
+}a{
+    position:sticky;
+    left: 48vw;
+    color: white;
+    width: 30vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+table{
+    position: relative;
+    left: 2vw;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 25vw;
+    height: 800px;
+    margin: 20px;
+    padding: 20px;
+    border: 7px solid white;
+    border-radius: 20px;   
+    top: 25px;
+}
